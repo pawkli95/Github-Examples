@@ -1,4 +1,4 @@
-name: Custom workflow
+name: Custom workflow name
 
 on: [push]
 
